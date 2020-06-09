@@ -1,0 +1,1 @@
+in this project I will be trying to remake the google home page using the html, css and devtools basics I learned in previous lessons. 
